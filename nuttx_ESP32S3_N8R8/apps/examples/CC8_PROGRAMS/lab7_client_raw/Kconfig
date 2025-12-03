@@ -1,0 +1,10 @@
+# Kconfig for "a la antigua" build style
+config LAB7_CLIENT
+	bool "UDP Client Raw Sockets (CC8/lab7)"
+	default n
+	depends on NET_UDP && NET_IPv4
+	---help---
+		Enables the custom UDP client for lab7.
+		This client manually constructs IP/UDP headers and sends the
+		packet via a raw socket. It is intended to be compiled and
+		run on a host machine, but is included here for completeness.

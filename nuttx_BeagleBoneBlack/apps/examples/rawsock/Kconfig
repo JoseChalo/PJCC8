@@ -1,0 +1,5 @@
+config EXAMPLES_RAWSOCK
+    bool "Ejemplo RAW Socket"
+    default n
+    help
+        Un ejemplo mínimo de uso de socket RAW en loopback.

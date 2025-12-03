@@ -1,0 +1,8 @@
+menu "CC8 PROGRAMS"
+source "/home/skelett/copy_nuttx/apps/examples/CC8_PROGRAMS/lab1_client/Kconfig"
+source "/home/skelett/copy_nuttx/apps/examples/CC8_PROGRAMS/lab1_server/Kconfig"
+source "/home/skelett/copy_nuttx/apps/examples/CC8_PROGRAMS/lab7_client_raw/Kconfig"
+source "/home/skelett/copy_nuttx/apps/examples/CC8_PROGRAMS/server_udp/Kconfig"
+source "/home/skelett/copy_nuttx/apps/examples/CC8_PROGRAMS/client_udp/Kconfig"
+source "/home/skelett/copy_nuttx/apps/examples/CC8_PROGRAMS/raw_sockets/Kconfig"
+endmenu

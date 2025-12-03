@@ -1,0 +1,5 @@
+# Kconfig for "a la antigua" build style
+config SERVER_UDP
+	bool "Server UDP"
+	default n
+	depends on NET_UDP && NET_IPv4
