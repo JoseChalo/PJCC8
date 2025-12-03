@@ -1,0 +1,8 @@
+menu "CC8 PROGRAMS"
+source "/home/regis/Desktop/nuttxspace/apps/examples/CC8_PROGRAMS/lab1_client/Kconfig"
+source "/home/regis/Desktop/nuttxspace/apps/examples/CC8_PROGRAMS/lab1_server/Kconfig"
+source "/home/regis/Desktop/nuttxspace/apps/examples/CC8_PROGRAMS/lab7_client/Kconfig"
+source "/home/regis/Desktop/nuttxspace/apps/examples/CC8_PROGRAMS/lab_serial_client/Kconfig"
+source "/home/regis/Desktop/nuttxspace/apps/examples/CC8_PROGRAMS/lab_serial_server/Kconfig"
+
+endmenu

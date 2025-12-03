@@ -1,0 +1,5 @@
+# Kconfig for "a la antigua" build style
+config raw_sockets
+	bool "raw_sockets"
+	default n
+

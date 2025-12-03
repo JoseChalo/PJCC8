@@ -1,0 +1,6 @@
+config Lab1_CC8_server
+    bool "Lab1_CC8_server"
+    default n
+    depends on BUILD_FLAT || BUILD_PROTECTED || BUILD_KERNEL
+    help
+        Muestra un simple mensaje de "Hola Mundo" desde NuttX.

@@ -1,0 +1,68 @@
+# Gen Make.dep automatically
+lab1_client.c.home.skelett.copy_nuttx.apps.examples.CC8_PROGRAMS.lab1_client.o: \
+ lab1_client.c /home/skelett/copy_nuttx/nuttx/include/nuttx/config.h \
+ /home/skelett/copy_nuttx/nuttx/include/stdio.h \
+ /home/skelett/copy_nuttx/nuttx/include/sys/types.h \
+ /home/skelett/copy_nuttx/nuttx/include/nuttx/compiler.h \
+ /home/skelett/copy_nuttx/nuttx/include/stdint.h \
+ /home/skelett/copy_nuttx/nuttx/include/arch/types.h \
+ /home/skelett/copy_nuttx/nuttx/include/arch/inttypes.h \
+ /home/skelett/copy_nuttx/nuttx/include/limits.h \
+ /home/skelett/copy_nuttx/nuttx/include/arch/limits.h \
+ /home/skelett/.espressif/tools/xtensa-esp-elf/esp-14.2.0_20241119/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/14.2.0/include/stdarg.h \
+ /home/skelett/copy_nuttx/nuttx/include/time.h \
+ /home/skelett/copy_nuttx/nuttx/include/nuttx/fs/fs.h \
+ /home/skelett/copy_nuttx/nuttx/include/nuttx/fs/ioctl.h \
+ /home/skelett/copy_nuttx/nuttx/include/stdbool.h \
+ /home/skelett/copy_nuttx/nuttx/include/nuttx/serial/tioctl.h \
+ /home/skelett/copy_nuttx/nuttx/include/nuttx/fs/uio.h \
+ /home/skelett/copy_nuttx/nuttx/include/sys/uio.h \
+ /home/skelett/copy_nuttx/nuttx/include/dirent.h \
+ /home/skelett/copy_nuttx/nuttx/include/nuttx/atomic.h \
+ /home/skelett/.espressif/tools/xtensa-esp-elf/esp-14.2.0_20241119/xtensa-esp-elf/lib/gcc/xtensa-esp-elf/14.2.0/include/stdatomic.h \
+ /home/skelett/copy_nuttx/nuttx/include/nuttx/mutex.h \
+ /home/skelett/copy_nuttx/nuttx/include/assert.h \
+ /home/skelett/copy_nuttx/nuttx/include/nuttx/semaphore.h \
+ /home/skelett/copy_nuttx/nuttx/include/errno.h \
+ /home/skelett/copy_nuttx/nuttx/include/semaphore.h \
+ /home/skelett/copy_nuttx/nuttx/include/nuttx/queue.h \
+ /home/skelett/copy_nuttx/nuttx/include/nuttx/clock.h \
+ /home/skelett/copy_nuttx/nuttx/include/nuttx/lib/math32.h \
+ /home/skelett/copy_nuttx/nuttx/include/inttypes.h \
+ /home/skelett/copy_nuttx/nuttx/include/stddef.h \
+ /home/skelett/copy_nuttx/nuttx/include/strings.h \
+ /home/skelett/copy_nuttx/nuttx/include/string.h \
+ /home/skelett/copy_nuttx/nuttx/include/alloca.h \
+ /home/skelett/copy_nuttx/nuttx/include/nuttx/mm/map.h \
+ /home/skelett/copy_nuttx/nuttx/include/nuttx/mm/gran.h \
+ /home/skelett/copy_nuttx/nuttx/include/nuttx/spawn.h \
+ /home/skelett/copy_nuttx/nuttx/include/spawn.h \
+ /home/skelett/copy_nuttx/nuttx/include/sched.h \
+ /home/skelett/copy_nuttx/nuttx/include/signal.h \
+ /home/skelett/copy_nuttx/nuttx/include/nuttx/irq.h \
+ /home/skelett/copy_nuttx/nuttx/include/arch/irq.h \
+ /home/skelett/copy_nuttx/nuttx/include/arch/syscall.h \
+ /home/skelett/copy_nuttx/nuttx/include/arch/xtensa/core.h \
+ /home/skelett/copy_nuttx/nuttx/include/arch/chip/core-isa.h \
+ /home/skelett/copy_nuttx/nuttx/include/arch/chip/tie.h \
+ /home/skelett/copy_nuttx/nuttx/include/arch/xtensa/xtensa_corebits.h \
+ /home/skelett/copy_nuttx/nuttx/include/arch/xtensa/xtensa_specregs.h \
+ /home/skelett/copy_nuttx/nuttx/include/arch/xtensa/xtensa_coproc.h \
+ /home/skelett/copy_nuttx/nuttx/include/arch/chip/irq.h \
+ /home/skelett/copy_nuttx/nuttx/include/arch/lx7/irq.h \
+ /home/skelett/copy_nuttx/nuttx/include/nuttx/spinlock_type.h \
+ /home/skelett/copy_nuttx/nuttx/include/nuttx/lib/lib.h \
+ /home/skelett/copy_nuttx/nuttx/include/nuttx/kmalloc.h \
+ /home/skelett/copy_nuttx/nuttx/include/stdlib.h \
+ /home/skelett/copy_nuttx/nuttx/include/nuttx/mm/mm.h \
+ /home/skelett/copy_nuttx/nuttx/include/nuttx/userspace.h \
+ /home/skelett/copy_nuttx/nuttx/include/pthread.h \
+ /home/skelett/copy_nuttx/nuttx/include/unistd.h \
+ /home/skelett/copy_nuttx/nuttx/include/malloc.h \
+ /home/skelett/copy_nuttx/nuttx/include/arpa/inet.h \
+ /home/skelett/copy_nuttx/nuttx/include/netinet/in.h \
+ /home/skelett/copy_nuttx/nuttx/include/sys/socket.h \
+ /home/skelett/copy_nuttx/nuttx/include/endian.h \
+ /home/skelett/copy_nuttx/nuttx/include/sys/endian.h
+# No files specified for dependency generation
+# No files specified for dependency generation
